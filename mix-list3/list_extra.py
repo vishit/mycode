@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 list1 = ["Pinta","Nina","Santa-Maria",3]
 
 print ("Columbus had %s ships: the %s, the %s, and the %s."%(list1[-1],list1[0], list1[1], list1[2]))
