@@ -2,7 +2,7 @@
 from random import randint
 
 class Player:
-    def __inti_(self):
+    def __init_(self):
         self.dice = []
 
     def roll(self):
